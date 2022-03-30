@@ -3,6 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jetonshabani&label=Profile%20views&color=0e75b6&style=flat" alt="jetonshabani" /> </p>
 
+-🔭 I’m currently studying to become a better developer
+
+-👯 I’m looking to collaborate on open-projects
+
+-🌱 I’m currently learning whatever is learnable 
+
+-💬 Ask me about anything
+
 - 👨‍💻 Some of my projects are available at [https://jeton-portfolio.netlify.app/](https://jeton-portfolio.netlify.app/)
 
 - 📫 How to reach me **tonidide9@gmail.com**
