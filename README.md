@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jetonshabani&label=Profile%20views&color=0e75b6&style=flat" alt="jetonshabani" /> </p>
 
--🔭 I’m currently studying to become a better developer
+-🔭  I am currently studying to become a great front-end developer with Back-end skills as well.
 
 -👯 I’m looking to collaborate on open-projects
 
--🌱 I’m currently learning whatever is learnable 
+-🌱 I am currently learning TypeScript
 
 -💬 Ask me about anything
 
