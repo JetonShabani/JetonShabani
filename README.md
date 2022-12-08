@@ -11,7 +11,7 @@
 
 -💬 Ask me about anything
 
-- 👨‍💻 Some of my projects are available at [https://jeton-portfolio.netlify.app/](https://jeton-portfolio.netlify.app/)
+- 👨‍💻 Some of my projects are available at [https://jetonshabani.netlify.app/](https://jetonshabani.netlify.app/)
 
 - 📫 How to reach me **tonidide9@gmail.com**
 
