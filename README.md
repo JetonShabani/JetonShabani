@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jetonshabani&label=Profile%20views&color=0e75b6&style=flat" alt="jetonshabani" /> </p>
 
--🔭  I am currently Working to become a great front-end developer with Back-end skills as well.
+-🔭  I am currently Working to become a great Back-End developer with Front-End skills as well.
 
 -👯 I'm looking to collaborate on some great projects
 
